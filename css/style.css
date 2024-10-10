@@ -772,7 +772,7 @@ footer .studio{
     border-radius: 2px;
 }
 
-input:checked+.privacy-label .checkbox-custom {
+input:checked+.privacy-label .checkbox {
     fill: #F4F4FD;
     background-color: #404bbf;
     border: none;
@@ -781,7 +781,7 @@ input:checked+.privacy-label .checkbox-custom {
 .privacy-label{
     font-weight: 400;
     font-size: 12px;
-    line-height: 14px;
+    line-height: 1.17;
     letter-spacing: 0.04em;
     color: #8E8F99;
     align-items: center;
