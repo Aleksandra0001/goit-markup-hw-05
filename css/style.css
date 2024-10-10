@@ -556,11 +556,16 @@ footer .studio{
     border: 1px solid white;
     border-radius: 4px;
     box-shadow: 0 4px 4px #00000026;
-    padding-left: 24px;
+    padding-left: 16px;
+    color: #ffffff;
 }
 
 .email-input::placeholder{
     color: #ffffff;
+}
+
+.social-link-icon{
+    margin-left: 16px;
 }
 
 .subscribe-button{
